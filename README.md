@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrpppycoder
-- 👀 I’m interested in Functional coding And Problem Solving As Well As Reasearch And Development in Software.
+- 👀 I’m interested in Functional programming And Problem Solving As Well As Reasearch And Development in Software.
 - 🌱 I’m currently learning Angular And Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
